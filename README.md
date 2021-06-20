@@ -23,7 +23,7 @@
 <h3>🛠 To Learn</h3>
 
 <!-- - 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask -->
-- 💻 &nbsp; Python | flask | MySQL | AWS
+- 💻 &nbsp; Python | Django | flask | MySQL | AWS
 
 <hr>
 
