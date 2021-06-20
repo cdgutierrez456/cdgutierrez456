@@ -15,7 +15,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | Postgres | MySQL
+<!-- - 💻 &nbsp; Python | Java | Postgres | MySQL -->
 
 - 🌐 &nbsp; HTML | CSS | SASS | JavaScript | Bootstrap | Angular
 
