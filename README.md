@@ -8,7 +8,7 @@
 
 - 🎓 &nbsp; Studying systems and telecommunications engineering.
 
-- 🔭 I’m currently working on learning English
+- 🔭 &nbsp; I’m currently working on learning English
 
 - 🌱 &nbsp; Learning about technology on the web.
 
