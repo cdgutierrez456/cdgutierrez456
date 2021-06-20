@@ -6,7 +6,9 @@
 
 - 🤔 &nbsp; Exploring new technologies of developing software.
 
-- 🎓 &nbsp; Studying systems and telecommunications engineering
+- 🎓 &nbsp; Studying systems and telecommunications engineering.
+
+- 🔭 I’m currently working on learning English
 
 - 🌱 &nbsp; Learning about technology on the web.
 
