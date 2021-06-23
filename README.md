@@ -8,11 +8,11 @@
 
 - 🎓 &nbsp; Studying systems and telecommunications engineering.
 
-- 🔭 &nbsp; I’m currently working on learning English
-
 - 🌱 &nbsp; Learning about technology on the web.
 
 - ✍️ &nbsp; Pursuing professional web development and software development with python and its frameworks.
+
+- 🔭 &nbsp; I’m currently working on learning English. My current level is B1
 
 
 <h3>🛠 Tech Stack</h3>
