@@ -19,13 +19,13 @@
 
 <!-- - 💻 &nbsp; Python | Java | Postgres | MySQL -->
 
-- 🌐 &nbsp; HTML | CSS | SASS | JavaScript | Bootstrap | Angular
+- 🌐 &nbsp; HTML | CSS | SASS | JavaScript | Bootstrap
 
 
 <h3>🛠 To Learn</h3>
 
 <!-- - 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask -->
-- 💻 &nbsp; Python | Django | flask | MySQL | AWS
+- 💻 &nbsp; Python | React | Django | flask | MySQL | MongoDB
 
 <hr>
 
