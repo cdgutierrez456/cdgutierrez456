@@ -29,11 +29,6 @@
 
 <hr>
 
-## &#x1f4c8; My GitHub Stats
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdgutierrez456&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <h3> 🤝🏻 Connect with Me </h3>
 
